@@ -22,3 +22,7 @@
 commit 636a54f5296e2b507c7135d2536e0f72e7c28439 (HEAD -> develop, origin/develop)
 Author: Евгений Морозов <iloverockandroll@yandex.ru>
 Date:   Fri Oct 28 02:35:24 2022 +0300
+
+в соотв. с п.11:
+ссылка на репозиторий коллеги: https://github.com/SanuNak/DE_Sprint.git
+ссылка на последний коммит f0297295b3a9b805c432d65ca96e033b5c5774d2
